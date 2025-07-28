@@ -35,3 +35,4 @@ coverage
 *.tsbuildinfo
 
 /frontend/node_modules
+/old_source/node_modules
