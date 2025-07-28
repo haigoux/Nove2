@@ -1,3 +1,4 @@
+![Nove Logo](https://raw.githubusercontent.com/haigoux/Nove2/refs/heads/main/logo.png)
 # Nove2
 (unofficial??) Novetus Server List
 
