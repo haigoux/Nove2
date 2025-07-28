@@ -5,10 +5,10 @@
 This repository aims to improve a novetus server browser made by and in collaboration with keith1r0blox
 
 ## Roadmap
-- [] Codebase cleanup
-- [] VueJS implementation
-- [] Full stack implementation & hosting
-- [] Domain name
+- [ ] Codebase cleanup
+- [ ] VueJS implementation
+- [ ] Full stack implementation & hosting
+- [ ] Domain name
 
 # Get Started with Development
 
