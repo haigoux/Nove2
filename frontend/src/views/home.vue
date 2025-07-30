@@ -49,17 +49,17 @@
                 Community Servers
             </h1>
             <p>
-                Find a good ass community gang lounge here.
+                Play online with the Novetus community. Find the right server using the <a href="/servers">server list</a>.
             </p>
         </div>
         <div class="text">
             <img src="@/assets/icons/people.ico" />
 
             <h1>
-                Contribute Server
+                Contribute Servers
             </h1>
             <p>
-                Wanna fuck it up with the homies? <a href="/requests">drop your own server</a> on the page outflex those crackkaz
+                <a href="/requests">Add your server</a> to the list. All requests are manually reviewed.
             </p>
         </div>
     </div>

@@ -16,9 +16,6 @@ import navbar from './components/navbar.vue';
         </div>
         <div class="space"></div>
     </div>
-    <div class="footer">
-        <p>© 2023 Nove. All rights reserved.</p>
-    </div>
 </template>
 
 <style scoped lang="scss">
