@@ -12,7 +12,6 @@
     <div class="section">
         <div class="text">
             <img src="@/assets/images/logo.png" />
-
             <h1>
                 Welcome to Nove
             </h1>
@@ -21,7 +20,7 @@
                 playing classic Roblox games.
             </p>
             <div class="row">
-                <button>
+                <button @click="$router.push('/servers')">
                     <img src="@/assets/icons/servers.png" />
                     <span>
                         Find Servers
@@ -42,7 +41,6 @@
     <br>
     <br>
     <div class="section low">
-        
         <div class="text">
             <img src="@/assets/icons/server.ico" />
             <h1>
