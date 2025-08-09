@@ -9,13 +9,13 @@
     </div>
     <div class="buttons">
         <input type="text" placeholder="Search..."/>
-        <button>
+        <button @click="$router.push('/')">
             Home
         </button>
-        <button>
+        <button @click="$router.push('/servers')">
             Servers
         </button>
-        <button>
+        <button @click="$router.push('/requests')">
             Requests
         </button>
     </div>

@@ -1,6 +1,6 @@
 <script setup>
 
-</script> 
+</script>
 
 <template>
     <div class="container">
@@ -155,6 +155,13 @@ export default {
         h2 {
             font-size: 1.5rem;
             margin-bottom: 5px;
+            cursor: pointer;
+
+            &:hover {
+                text-decoration: underline;
+
+                color: #007bff;
+            }
         }
 
         span {
@@ -163,10 +170,11 @@ export default {
 
             &.creator {
                 cursor: pointer;
-                color: #007bff;
 
                 &:hover {
                     text-decoration: underline;
+                    color: #007bff;
+
 
                 }
             }
@@ -183,6 +191,7 @@ export default {
                 color: #3b3b3b;
                 display: flex;
                 align-items: center;
+
                 img {
                     width: 26px;
                     height: 26px;
